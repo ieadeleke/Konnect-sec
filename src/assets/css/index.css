@@ -1,0 +1,177 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('./antd.css');
+
+:root {
+  --green: #258635;
+}
+
+@font-face {
+  font-family: 'Gilroy Extra-Bold';
+  src: url('../fonts/Gilroy-FREE/Gilroy-FREE/Gilroy-ExtraBold.otf');
+}
+
+@font-face {
+  font-family: 'Gilroy Bold';
+  src: url('../fonts/Gilroy-FREE/Gilroy-FREE/Gilroy-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Gilroy Medium';
+  src: url('../fonts/Gilroy-FREE/Gilroy-FREE/Gilroy-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Gilroy Light';
+  src: url('../fonts/Gilroy-FREE/Gilroy-FREE/Gilroy-Light.otf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gilroy Medium';
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body,
+html {
+  color: #111;
+  max-width: 1600px;
+  margin: 0px auto;
+  display: block;
+}
+
+/* Reserve space for mobile bottom nav */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: 4.5rem; /* matches ~h-16 bottom nav height */
+  }
+}
+
+/* Safe area padding for iOS devices on bottom nav */
+.mobile-bottom-nav {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Gilroy Bold';
+  font-weight: 600;
+  font-weight: normal;
+}
+
+.referal-modal .ant-modal-close {
+  display: block;
+}
+
+.ant-select {
+  width: 100% !important;
+  height: 3.5rem !important;
+}
+
+.navigation .ant-input-affix-wrapper {
+  background: #f5f5f6;
+  border: 1px solid #ecedf1;
+  width: 40%;
+  height: 4rem;
+  border-radius: 50px;
+}
+
+.navigation .ant-input-affix-wrapper>input.ant-input {
+  background: #f5f5f6;
+}
+
+.menu_custom_tab .ant-tabs-tab {
+  background-color: green !important;
+  color: white !important;
+}
+
+.menu_custom_tab .ant-tabs-tab-active {
+  background-color: initial !important;
+  color: initial !important;
+}
+
+.search .ant-select-selector {
+  background: #9B9B9B !important;
+  border-radius: 50px !important;
+}
+
+.search .ant-select-selection-item {
+  color: #fff;
+}
+
+.rounded-button {
+  border-radius: 3rem;
+  padding: 14px 30px;
+  background: #258635;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  outline: none;
+  border: none;
+}
+
+.wrapperBg {
+  background-image: url("../images/restaurant/wrapperBg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 150px;
+  max-height: 100px;
+  min-height: 60px;
+}
+
+.checkoutDrawer .ant-drawer-content-wrapper .ant-drawer-header {
+  border: 0 !important;
+}
+
+.ant-drawer .trans-code .ant-drawer-body {
+  padding: 20px 0px;
+}
+
+.ant-drawer .trans-code .ant-drawer-body a {
+  font-size: 1.3rem;
+  font-family: 'Gilroy Medium';
+}
+
+.checkoutDrawer .ant-drawer-content-wrapper {
+  width: 720px !important;
+}
+
+.new-menu-drawer {
+  padding: 40px !important;
+}
+
+.checkoutDrawer_wrapper .ant-drawer-content-wrapper .ant-drawer-header {
+  border: 0 !important;
+  border-radius: 0 0 !important;
+}
+
+.ant-drawer-header {
+  display: none !important;
+}
+
+.ant-drawer-header {
+  padding: 15px;
+}
+
+.ant-drawer-body {
+  padding: 0px !important;
+}
+
+.contact {
+  background-image: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url("../images/mini/landing.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

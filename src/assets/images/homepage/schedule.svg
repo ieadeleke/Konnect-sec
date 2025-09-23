@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 127 125" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-362.11 -505.36)">
+        <g transform="translate(-1197.9 -718.67)">
+            <g transform="translate(129.98 185.03)">
+                <rect x="1430" y="1052" width="127" height="112" fill="#b2cdff"/>
+            </g>
+            <g transform="translate(129.98 185.03)">
+                <rect x="1454" y="1039" width="11" height="25" fill="#0059ff"/>
+            </g>
+            <g transform="translate(163.98 185.03)">
+                <rect x="1454" y="1039" width="11" height="25" fill="#0059ff"/>
+            </g>
+            <g transform="translate(197.98 185.03)">
+                <rect x="1454" y="1039" width="11" height="25" fill="#0059ff"/>
+            </g>
+            <g transform="matrix(1 0 0 .90324 129.98 290)">
+                <rect x="1446" y="1093" width="95" height="15" fill="#fff"/>
+            </g>
+            <g transform="matrix(1 0 0 .90324 129.98 315.16)">
+                <rect x="1446" y="1093" width="95" height="15" fill="#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <filter id="Base" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#26334d" flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_328_1" data-name="Component 328 – 1" transform="translate(7.5 5.5)">
+    <g id="_2" data-name="2">
+      <g transform="matrix(1, 0, 0, 1, -7.5, -5.5)" filter="url(#Base)">
+        <rect id="Base-2" data-name="Base" width="47" height="47" rx="10" transform="translate(7.5 5.5)" fill="#fff" opacity="0.103"/>
+      </g>
+      <g id="Iconly_Bulk_Wallet" data-name="Iconly/Bulk/Wallet" transform="translate(8.458 9.719)">
+        <g id="Wallet">
+          <path id="Fill_1" data-name="Fill 1" d="M21.165,26.871H7.995a8.1,8.1,0,0,1-5.882-2.11A8.068,8.068,0,0,1,0,18.89V7.969A8.05,8.05,0,0,1,2.113,2.1,8.109,8.109,0,0,1,7.995,0H21.159a8.107,8.107,0,0,1,5.881,2.1,8.051,8.051,0,0,1,2.112,5.865v.055H22.979a5.221,5.221,0,0,0-5.205,5.2,5.208,5.208,0,0,0,5.205,5.212h6.179v.457a8.069,8.069,0,0,1-2.112,5.871A8.1,8.1,0,0,1,21.165,26.871ZM6.91,5.784A1.119,1.119,0,0,0,5.8,6.9,1.115,1.115,0,0,0,6.91,8.013h8.239a1.114,1.114,0,0,0-.008-2.229Z" fill="#44843f"/>
+          <path id="Fill_4" data-name="Fill 4" d="M.055,3.539A2.963,2.963,0,0,0,2.98,5.907H7.744A1.068,1.068,0,0,0,8.8,4.823V1.085A1.071,1.071,0,0,0,7.744,0H2.867A2.921,2.921,0,0,0,0,2.969a3.021,3.021,0,0,0,.055.571" transform="translate(20.561 10.19)" fill="#44843f" opacity="0.4"/>
+          <ellipse id="Oval" cx="1.466" cy="1.477" rx="1.466" ry="1.477" transform="translate(22.027 11.666)" fill="#44843f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
