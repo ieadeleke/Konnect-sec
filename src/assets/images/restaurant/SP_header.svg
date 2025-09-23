@@ -1,0 +1,12 @@
+<svg id="Component_338_1" data-name="Component 338 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="783" viewBox="0 0 1920 783">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="1920" height="783" fill="#fdf4d7"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="324.5" cy="338.5" rx="324.5" ry="338.5" transform="translate(713 -532)" fill="#fdf4d7"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="149" cy="155.5" rx="149" ry="155.5" transform="translate(-151 145)" fill="#fdf4d7"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="133" cy="138.5" rx="133" ry="138.5" transform="translate(1447 676)" fill="#fdf4d7"/>
+  </g>
+</svg>

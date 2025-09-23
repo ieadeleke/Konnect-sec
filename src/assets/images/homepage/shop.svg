@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 176 221" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-937.72 -578.77)">
+        
+            <g transform="matrix(.47967 0 0 .43077 926.21 564.98)">
+                <path d="m280 192c-4.389 0-8-3.611-8-8v-80c0-30.721-25.279-56-56-56s-56 25.279-56 56v80c0 4.389-3.611 8-8 8s-8-3.611-8-8v-80c0-39.498 32.502-72 72-72s72 32.502 72 72v80c0 4.389-3.611 8-8 8z" fill="#b2cdff" fill-rule="nonzero"/>
+            </g>
+            <g transform="matrix(.47967 0 0 .43077 926.21 564.98)">
+                <path d="m296 472h-272l16-320h240l16 320z" fill="#4083ff" fill-rule="nonzero"/>
+            </g>
+            <g transform="matrix(.47967 0 0 .43077 926.21 564.98)">
+                <path d="m360 472h-64l-16-320h64l16 320z" fill="#0059ff" fill-rule="nonzero"/>
+            </g>
+            <g transform="matrix(.47967 0 0 .43077 926.21 564.98)">
+                <path d="m328.47 431.99c-0.16 0.01-0.32 0.01-0.48 0.01-4.209-3e-3 -7.733-3.328-7.98-7.53l-16-272c-0.01-0.16-0.01-0.31-0.01-0.47h16.02l15.97 271.53c0.256 4.383-3.138 8.2-7.52 8.46z" fill="#0040ea" fill-rule="nonzero"/>
+            </g>
+            <g transform="matrix(.75462 0 0 .75462 -66.533 -317.19)">
+                <circle cx="1503.5" cy="1419.5" r="60.496" fill="#b2cdff"/>
+            </g>
+            <g transform="matrix(.25673 0 0 .25673 675.68 595.5)">
+                <path d="m1432.3 628.87 69.74 70.471 122.46-121.66-25.65-25.381-96.81 96.924-45.4-43.671-24.34 23.315z" fill="#0059ff"/>
+            </g>
+            <g transform="matrix(.47967 0 0 .43077 926.21 564.98)">
+                <path d="m104 192c-4.389 0-8-3.611-8-8v-80c0-39.498 32.502-72 72-72s72 32.502 72 72v80c0 4.389-3.611 8-8 8s-8-3.611-8-8v-80c0-30.721-25.279-56-56-56s-56 25.279-56 56v80c0 4.389-3.611 8-8 8z" fill="#b2cdff" fill-rule="nonzero"/>
+            </g>
+        
+    </g>
+</svg>
